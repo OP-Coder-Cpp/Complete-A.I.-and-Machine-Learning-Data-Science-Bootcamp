@@ -78,10 +78,10 @@ The goal of this repository is to:
 
 | Module | Status |
 |---------|--------|
-| Python | ⬜ |
-| NumPy | ⬜ |
-| Pandas | ⬜ |
-| Matplotlib | ⬜ |
+| Python | 🟩 |
+| NumPy | 🟩 |
+| Pandas | 🟩 |
+| Matplotlib | 🟩 |
 | Scikit-Learn | ⬜ |
 | Regression | ⬜ |
 | Classification | ⬜ |
